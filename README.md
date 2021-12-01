@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+My name is Yana.😊
+I'm ukrainian, but now i'm living in Poland.
+I have a beautiful family - my husband and my little cat Siri.🥰
+I love programming🤤
+
+I’m currently working as a manager in the recruitment department💼
+
+But...
+
+I’m currently learning programming and my dream is to become a programmer😊
+
+I am open to suggestions, to training. 
+Programming is what I like and I will do it with all my heart😊
 <!--
 **yanakhorolska/yanakhorolska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
