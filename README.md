@@ -3,7 +3,7 @@
 My name is Yana.😊
 I'm ukrainian, but now i'm living in Poland.
 I have a beautiful family - my husband and my little cat Siri.🥰
-I love programming🤤
+
 
 I’m currently working as a manager in the recruitment department💼
 
