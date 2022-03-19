@@ -3,6 +3,20 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-color: #F5F7FA;
 }
+.download-button {
+    margin-left: 45%;
+}
+.download-button button {
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    width: 150px;
+    height: 35px;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    font-weight: 600;
+    
+}
 .main-container {
     display: flex;
     flex-direction: row-reverse;
