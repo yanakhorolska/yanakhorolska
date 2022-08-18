@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Hi there 👋</h3>
 About me⬇️
 <p>- My name is Yana.
 - I'm ukrainian, but now i'm living in Poland.</br>
@@ -15,10 +15,8 @@ About me⬇️
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
- 
-  <hr>
+ <hr>
  :hammer_and_wrench: Languages and Tools :
-
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="sass" alt="sass" width="40" height="40"/>&nbsp;
