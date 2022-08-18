@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 About me⬇️
-<p>- My name is Yana.
+<p>- My name is Yana.</br>
 - I'm ukrainian, but now i'm living in Poland.</br>
 - I am currently learning a Full Stack Development❤️</br>
 - I'm excited to begin a career as a front-end developer and learn more about this line of work from industry professionals.</br>
