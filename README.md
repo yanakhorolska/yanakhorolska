@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there 👋</h1>
 About me⬇️
 <p>- My name is Yana.
@@ -6,12 +5,6 @@ About me⬇️
 - I am currently learning a Full Stack Development❤️</br>
 - I'm excited to begin a career as a front-end developer and learn more about this line of work from industry professionals.</br>
 - I have a beautiful family - my husband and my little cat Siri.🥰</p>
-
-
-
-
-
-
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
