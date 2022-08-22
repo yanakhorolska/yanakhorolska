@@ -8,7 +8,7 @@ About me⬇️
 - I am currently learning a Full Stack Development❤️</br>
 - I'm excited to begin a career as a front-end developer💻.</br>
 - You can visit my Linkedin profile😊 <a href="https://www.linkedin.com/in/yana-khorolska-17bb3b134/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" alt="LinkedIn Badge"/>
   </a>
 </div>
 
