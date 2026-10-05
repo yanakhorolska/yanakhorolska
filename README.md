@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yana 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | JavaScript · TypeScript · Node.js · React</strong>
+  <strong>Full-Stack Developer | JavaScript · TypeScript · Node.js · React · Angular</strong>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 - Building practical **full-stack and backend applications** with JavaScript and TypeScript
 - Currently expanding my backend skills through the **EPAM Node.js program**
 - Studying **Advanced JavaScript & React** at ALX
-- Completed the **EPAM Angular Mentoring Program**
+- Completed the **EPAM Angular Mentoring Program** and continue strengthening Angular through hands-on projects
 - Interested in **REST API design, databases, testing, and AI integrations**
 - Focused on writing maintainable code and turning learning projects into production-style portfolio work
 
@@ -60,6 +60,11 @@ Backend REST API project with authentication, validation, MongoDB persistence, f
 Modern React course project using a current frontend toolchain and component-driven development.
 
 **Stack:** React · TypeScript · Redux Toolkit · React Router · Tailwind CSS · Vitest · Storybook
+
+### ✅ [TaskFlow — Angular Task Manager](https://github.com/yanakhorolska/task-flow)
+Angular task-management application built to practice production-relevant Angular patterns: standalone components, routing, reactive forms, dependency injection, HttpClient, RxJS, typed models, and component communication.
+
+**Stack:** Angular · TypeScript · RxJS · Reactive Forms · Angular Router · HttpClient · Vitest
 
 ---
 
@@ -111,6 +116,7 @@ Modern React course project using a current frontend toolchain and component-dri
 - REST API architecture
 - Automated testing
 - Full-stack portfolio projects
+- Angular architecture, RxJS, Reactive Forms, routing, and Signals
 
 ---
 
