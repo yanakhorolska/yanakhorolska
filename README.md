@@ -34,37 +34,7 @@
 
 ---
 
-## 🚀 Selected Projects
 
-### 🔎 [DevApply — Job Application Tracker](https://github.com/yanakhorolska/DevApply-Job-Application-Tracker)
-Full-stack job-search management application currently in development. Designed to track applications, recruitment stages, interviews, deadlines, and application history.
-
-**Planned stack:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · Jest · Supertest
-
-### 🐾 [Pet Adoption Platform — Frontend](https://github.com/yanakhorolska/pets_front-end)
-React application for a pet adoption platform with routing, authentication flows, forms, state management, localization, and API integration.
-
-**Stack:** React · Redux Toolkit · React Router · Axios · Material UI · Formik · Yup · i18next
-
-### ⚙️ [Pet Adoption Platform — Backend](https://github.com/yanakhorolska/pets_back-end)
-REST API supporting the pet adoption application, including authentication, validation, database integration, image uploads, and API documentation.
-
-**Stack:** Node.js · Express · MongoDB · Mongoose · JWT · Joi · Cloudinary · Swagger
-
-### 🌐 [Node.js REST API](https://github.com/yanakhorolska/nodejs-rest-api)
-Backend REST API project with authentication, validation, MongoDB persistence, file handling, email integration, and automated API testing tools.
-
-**Stack:** Node.js · Express · MongoDB · Mongoose · JWT · Joi · Jest · Supertest · SendGrid
-
-### 🧭 [Weekendly](https://github.com/yanakhorolska/Weekendly-App)
-Modern React course project using a current frontend toolchain and component-driven development.
-
-**Stack:** React · TypeScript · Redux Toolkit · React Router · Tailwind CSS · Vitest · Storybook
-
-### ✅ [TaskFlow — Angular Task Manager](https://github.com/yanakhorolska/task-flow)
-Angular task-management application built to practice production-relevant Angular patterns: standalone components, routing, reactive forms, dependency injection, HttpClient, RxJS, typed models, and component communication.
-
-**Stack:** Angular · TypeScript · RxJS · Reactive Forms · Angular Router · HttpClient · Vitest
 
 ---
 
@@ -109,14 +79,6 @@ Angular task-management application built to practice production-relevant Angula
 
 ---
 
-## 📚 Currently Working On
-
-- Node.js backend development
-- MongoDB and Mongoose
-- REST API architecture
-- Automated testing
-- Full-stack portfolio projects
-- Angular architecture, RxJS, Reactive Forms, routing, and Signals
 
 ---
 
